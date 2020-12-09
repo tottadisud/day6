@@ -1,0 +1,12 @@
+.parent{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+
+.child{
+    width: 25%;
+    border: 1px solid #000;
+    margin: 1%;
+    padding: 1%;
+}
